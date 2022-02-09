@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">LandscapeLayout</string>
     <string name="seekbar_value_message">The seekbar value is %1$d</string>
+    <string name="show_square">Show Square</string>
+    <string name="instructions">Try to tap the square</string>
+    <string name="tapped_square_msg">You tapped the square</string>
+    <string name="missed_square_msg">You missed the square</string>
+    <string name="canceled_tapping_msg">You didn\'t try to tap the square</string>
 </resources>
